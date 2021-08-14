@@ -29,11 +29,22 @@ function processUpdates ($updates) {
 
 ---
 ### 6. Work experience
-- 12 years - IT Support Engineer @ KPO b.v.
+- **12 years** - IT Support Engineer @ KPO b.v.:
+    - Research new IT&T technologies select and implement new hardware and software to improve the efficiency of KPO PC users.
+    - Provision of high-level IT Support for desktop and portable computer users.
+    - Assist Support Supervisors in planning and preparation of complex IT systems configuration and implementation, and Support Processes documentation.
+    - Assist Support Supervisor with supervision, coordination, and technical development of Support Specialists
 
-- 1 year - IT Support Specialist @ KPO b.v.
 
-- 1 year - System Administrator @ ISP "Eurasiastar" 
+- **1 year** - IT Support Specialist @ KPO b.v.:
+    - Second line of user support. Software and hardware issues troubleshooting.
+    - User training and supporting.
+    - Project documentation creation.
+
+
+- **1 year** - System Administrator @ ISP "Eurasiastar":
+    - Designed and build a local network at the scale of the city (Optical fiber technology GePON (OLT, ONU), wireless equipment, managed switches the second and third level. 
+    - Result: developed and launched in the execution of the project «The data transmission network for the Rudniy city»
 
 ---
 ### 7. Education  (Including courses)
