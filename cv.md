@@ -69,3 +69,4 @@ Professional development courses:
 
 ---
 ### 8. English language level
+Intermediate
