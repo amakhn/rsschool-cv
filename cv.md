@@ -48,6 +48,14 @@ function processUpdates ($updates) {
 
 ---
 ### 7. Education  (Including courses)
-
+- 10961 Automating Administration with Windows PowerShell 
+- M10747 Administering System Center 2012 Configuration Manager
+- 00140793 Servicing HP Commercial Desktop, Workstations and Notebooks
+- M10324 Implementing and Managing Microsoft Desktop Virtualization
+- 6292 Installing and Configuring Windows 7 Client
+- Workshop: Deploying Windows 7 using System Center Configuration Manager 2007
+- CXD- 200-1I Implementing Citrix XenDesktop 3 and 4
+- 6451 Planning, Deploying and Managing Microsoft Systems Center Configuration Manager 2007
+- ITIL Foudation v3
 ---
 ### 8. English language level
