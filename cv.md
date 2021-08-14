@@ -13,8 +13,19 @@ My point is to work with hi-end technologies for frontend and backend developmen
 - Git 
 ---
 ### 5. Code examples
+```
+function processUpdates ($updates) {
+	foreach ($update in $updates) {
+		$global:message_offset = $update.update_id
+		if ($update.message.text -eq 'test') {
+		$text = 'It is you just sent me test request?'
 
-Tele
+		sendMessage $update.message.chat.id $text
+		}
+	}
+}
+```
+[from](https://github.com/amakhn/PS_TeleBot/blob/master/main.ps1)
 
 ---
 ### 6. Work experience
