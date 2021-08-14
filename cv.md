@@ -1,18 +1,18 @@
-# 1. Alexandr Makhnitskiy
+# Alexandr Makhnitskiy
 
-#### 2. [amakhn@gmail.com](mailto:amakhn@gmail.com)
+#### [amakhn@gmail.com](mailto:amakhn@gmail.com)
 
 ---
-### 3. About me
+### About me
 My point is to work with hi-end technologies for frontend and backend development on cutting edge of modern IT industry, with professionals as teammates. Before this dive-in, I've work in near infrastructural scope of IT tasks, thus, have a good background skills which can be useful both on the programming and dev-ops side. 
 
 ---
-### 4. Skills  
+### Skills  
 - PowerShell
 - Python
 - Git 
 ---
-### 5. Code examples
+### Code examples
 ```
 function processUpdates ($updates) {
 	foreach ($update in $updates) {
@@ -28,7 +28,7 @@ function processUpdates ($updates) {
 [from](https://github.com/amakhn/PS_TeleBot/blob/master/main.ps1)
 
 ---
-### 6. Work experience
+### Work experience
 - **12 years** - IT Support Engineer @ KPO b.v.:
     - Research new IT&T technologies select and implement new hardware and software to improve the efficiency of KPO PC users.
     - Provision of high-level IT Support for desktop and portable computer users.
@@ -47,7 +47,7 @@ function processUpdates ($updates) {
     - Result: developed and launched in the execution of the project «The data transmission network for the Rudniy city»
 
 ---
-### 7. Education  (Including courses)
+### Education  (Including courses)
 `
 Rudniy Industrial Institute
 Engineer's degree
@@ -68,5 +68,5 @@ Professional development courses:
 
 
 ---
-### 8. English language level
+### English language level
 Intermediate
