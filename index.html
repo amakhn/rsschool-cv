@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="styles/style.css">
+        <title>CV</title>
+    </head>
+    <body class="content-container">
+        <main>
+            <header>
+                <h1>Alexandr Makhnitskiy</h1>
+                <img id="avatar" src="images/12895600.jpg" alt="avatar" height="100" width="100">
+            </header>
+            <section class="contacts">
+                <h2>Contacts</h2>
+                <ul>
+                    <li>
+                        <img src="images/mail.png" alt="mail image" height="12" width="12">
+                        <a href="mailto:amakhn@gmail.com">amakhn@gmail.com</a>
+                    </li>
+                    <li>
+                        <img src="images/telegram.png" alt="telegram image" height="12" width="12">
+                        <a href="https://t.me/iskander">iskander</a> 
+                    </li>
+                </ul>                
+            </section>
+            <section>
+                <h2>About me</h2>
+                <p>My point is to work with hi-end technologies for frontend and backend development on cutting edge of modern IT industry, with professionals as teammates. Before this dive-in, I’ve work in near infrastructural scope of IT tasks, thus, have a good background skills which can be useful both on the programming and dev-ops side.</p>
+            </section>
+            <section class="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>PowerShell</li>
+                    <li>Python</li>
+                    <li>GIT</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Code examples</h2>
+                <pre>
+                    <code>
+function processUpdates ($updates) {
+    foreach ($update in $updates) {
+        $global:message_offset = $update.update_id
+        if ($update.message.text -eq 'test') {
+        $text = 'It is you just sent me test request?'
+        
+        sendMessage $update.message.chat.id $text
+        }
+    }
+}
+                    </code>
+                </pre>
+            </section>
+            <section>
+                <h2>Work Experience</h2>
+                <ul>
+                    <li>12 years - IT Support Engineer @ KPO b.v.: 
+                        <ul>
+                            <li>Research new IT&T technologies select and implement new hardware and software to improve the efficiency of KPO PC users.</li>
+                            <li>Provision of high-level IT Support for desktop and portable computer users.</li>
+                            <li>Assist Support Supervisors in planning and preparation of complex IT systems configuration and implementation, and Support Processes documentation.</li>
+                            <li>Assist Support Supervisor with supervision, coordination, and technical development of Support Specialists</li>
+                        </ul>
+                    </li>
+                    <li>1 year - IT Support Specialist @ KPO b.v.:
+                        <ul>
+                            <li>Second line of user support. Software and hardware issues troubleshooting.</li>
+                            <li>User training and supporting.</li>
+                            <li>Project documentation creation.</li>
+                        </ul>
+                    </li>
+                    <li>1 year - System Administrator @ ISP “Eurasiastar”: 
+                        <ul>
+                            <li>Designed and build a local network at the scale of the city (Optical fiber technology GePON (OLT, ONU), wireless equipment, managed switches the second and third level.</li>
+                            <li>Result: developed and launched in the execution of the project «The data transmission network for the Rudniy city»</li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <h2>Education</h2>
+                <p>Rudniy Industrial Institute Engineer’s degree Information Technology <time datetime="2003-09-01">2003</time> – <time datetime="2008-05-01">2008</time></p>
+                <p>Professional development courses:</p>
+                <ul>
+                    <li>10961 Automating Administration with Windows PowerShell</li>
+                    <li>M10747 Administering System Center 2012 Configuration Manager</li>
+                    <li>00140793 Servicing HP Commercial Desktop, Workstations and Notebooks</li>
+                    <li>M10324 Implementing and Managing Microsoft Desktop Virtualization</li>
+                    <li>6292 Installing and Configuring Windows 7 Client</li>
+                    <li>Workshop: Deploying Windows 7 using System Center Configuration Manager 2007</li>
+                    <li>CXD- 200-1I Implementing Citrix XenDesktop 3 and 4</li>
+                    <li>6451 Planning, Deploying and Managing Microsoft Systems Center Configuration Manager 2007</li>
+                    <li>ITIL Foudation v3</li>
+                </ul>
+            </section>
+            <section>
+                <h2>English language level</h2>
+                <p>Intermediate</p>
+            </section>
+        </main>
+        <footer>
+            <div style="font-size: 10px;">Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+        </footer>
+    </body>
+</html>
