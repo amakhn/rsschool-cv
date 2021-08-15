@@ -1,0 +1,15 @@
+.content-container {
+    position: static;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid;
+    border-width: 1px;
+    border-color: dimgrey;
+}
+
+.name {
+    background-color: dimgrey;
+}
