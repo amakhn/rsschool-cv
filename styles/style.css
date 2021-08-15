@@ -1,15 +1,29 @@
 .content-container {
+    /* Position */
     position: static;
+    left: auto;
+    right: auto;
     max-width: 1000px;
+    
+    /* Block */
     margin-left: auto;
     margin-right: auto;
     padding-left: 20px;
     padding-right: 20px;
+    
+
+    /* Typographic */
+    font-family: "Arial", sans-serif;
+    color: black;
+
+    /* Decoration */
+    background-color: white;
     border: solid;
     border-width: 1px;
     border-color: dimgrey;
 }
 
-.name {
-    background-color: dimgrey;
+h1,
+h2 {
+    color: gray;
 }
