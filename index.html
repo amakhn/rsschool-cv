@@ -40,16 +40,16 @@
                 <h2>Code examples</h2>
                 <pre>
                     <code>
-function processUpdates ($updates) {
-    foreach ($update in $updates) {
+<span>function</span> processUpdates <span>(</span>$updates<span>) {</span>
+    <span>foreach</span> <span>(</span>$update in $updates<span>) {</span>
         $global:message_offset = $update.update_id
-        if ($update.message.text -eq 'test') {
+        <span>if</span> <span>(</span>$update.message.text -eq 'test'<span>) {</span>
         $text = 'It is you just sent me test request?'
         
         sendMessage $update.message.chat.id $text
-        }
-    }
-}
+        <span>}</span>
+    <span>}</span>
+<span>}</span>
                     </code>
                 </pre>
             </section>
