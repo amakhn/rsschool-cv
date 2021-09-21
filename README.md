@@ -1,1 +1,0 @@
-https://amakhn.github.io/rsschool-cv/cv
